@@ -1,0 +1,26 @@
+{
+  "name": "chatbook-saas",
+  "version": "2.4.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "adm-zip": "0.5.16",
+    "next": "15.5.25",
+    "pdfkit": "0.17.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "sharp": "0.34.3"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "0.5.7",
+    "@types/node": "22.18.6",
+    "@types/pdfkit": "0.13.9",
+    "@types/react": "19.1.13",
+    "@types/react-dom": "19.1.9",
+    "typescript": "5.9.2"
+  }
+}
